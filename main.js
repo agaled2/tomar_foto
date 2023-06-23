@@ -46,3 +46,4 @@ function guardar(){
   descarga = document.getElementById("link");
     descarga.href = document.getElementById("fotos").src
       descarga.click();
+}
